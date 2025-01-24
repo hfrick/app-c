@@ -14,5 +14,5 @@ Suggests:
 Encoding: UTF-8
 Settings/Connect: 
     list(
-      idle_timeout = 10
+      load_factor = 0.7
     )
