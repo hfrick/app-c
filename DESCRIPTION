@@ -14,5 +14,5 @@ Suggests:
 Encoding: UTF-8
 Settings/Connect: 
     list(
-      locked_message = "my locked message"
+      locked_message = "empty"
     )
