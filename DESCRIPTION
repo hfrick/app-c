@@ -12,3 +12,7 @@ Suggests:
     pak,
     producethis
 Encoding: UTF-8
+Settings/Connect: 
+    list(
+      locked_message = "my locked message"
+    )
